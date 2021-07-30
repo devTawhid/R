@@ -104,11 +104,13 @@ complete.cases(var1, var2)
 
 
 
+mat_unit <- diag(3) ## to create unit matrix
 
+mat_unit
 
+mat_diag <- diag(c(1,2,3)) ## to create diagonal martix
 
-
-
+mat_diag
 
 
 
